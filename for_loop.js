@@ -1,5 +1,5 @@
 
-for (i = 2; i < 10001; i+= 2) {
+for (i = 1; i <=11; i+= 3) {
     console.log(i);
 }
 
